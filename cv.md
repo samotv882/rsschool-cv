@@ -17,4 +17,5 @@ I don't have experience in HTML, CSS, JS.
 English A2-B1 (Pre-Intermediate - Intermediate)
 
 ## Links:
-https://www.codewars.com/users/samotv2
+* https://www.codewars.com/users/samotv2
+* https://www.linkedin.com/in/tatsiana-samoilava-269799159
